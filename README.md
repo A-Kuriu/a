@@ -20,19 +20,19 @@ Ensure that you have R installed. Then, install the required packages:
 
 Before running the analysis, prepare a CSV file with the following columns:
 
-strain: Strain administered
-
-bacterial_dose: Number of bacteria administered
-
-time: Time when survival rate was checked
-
-surv: Number of surviving individuals
-
-total: Total number of individuals in the experiment
-
-experimenter: Name of the experimenter
-
-exp_date: Date of the experiment
+  * strain: Strain administered
+  
+  * bacterial_dose: Number of bacteria administered
+  
+  * time: Time when survival rate was checked
+  
+  * surv: Number of surviving individuals
+  
+  * total: Total number of individuals in the experiment
+  
+  * experimenter: Name of the experimenter
+  
+  * exp_date: Date of the experiment
 
 
 #### Example Input Data (CSV)
